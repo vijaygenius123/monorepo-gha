@@ -13,6 +13,7 @@ export default defineConfig({
       },
       ciWebServerCommand: 'nx run hello-react:serve-static',
     }),
+    projectId: "yr9t3g",
     baseUrl: 'http://localhost:4200',
   },
 });
